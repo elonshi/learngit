@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 aoning is my little cute!!!
-git tracks change.
+Git tracks changes of files.
